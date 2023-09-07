@@ -1,7 +1,7 @@
-# Website-Data-Scraper
+# Website Data Scraper
 
 ### Goal: 
-To gain experience with web scraping and interacting with web pages programmatically. This code is for educational purposes only.
+To gain experience with web scraping and interacting with web pages programmatically. *This code is for educational purposes only.*
 
 ### Functionality:
 My program takes a company name or the name of a company officer as arguments and stores relevant information about the company or company officer into a .csv file.
